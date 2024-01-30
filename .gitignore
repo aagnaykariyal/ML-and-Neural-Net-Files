@@ -1,3 +1,6 @@
+.DS_Store
 data/
 AST_from_repo/
 *.wav
+keys.py
+__pychache__
