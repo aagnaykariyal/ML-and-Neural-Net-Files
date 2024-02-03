@@ -4,3 +4,4 @@ AST_from_repo/
 *.wav
 keys.py
 __pychache__
+trading.py
