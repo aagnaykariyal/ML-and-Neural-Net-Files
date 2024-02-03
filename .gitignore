@@ -3,6 +3,6 @@ data/
 AST_from_repo/
 *.wav
 keys.py
-__pycache__
+__pycache__/
 trading.py
 CNN.ipynb
